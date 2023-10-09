@@ -7,4 +7,18 @@
 | Iteration | Unscheduled |
 | Estimate | 5 Points |
 
+
+# Main User Interface
 ![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/mainUS.png)
+
+# Menu Items – Specific Books
+![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/menuUS.png)
+
+# Form Edit Book
+![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/editUS.png)
+
+# Form Book Detail
+![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/detailUS.png)
+
+# Form Import Books
+![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/importUS.png)
