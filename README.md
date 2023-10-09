@@ -13,6 +13,7 @@
 
 # Menu Items – Specific Books
 ![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/menuUS.png)
+![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/comboBoxUS.png)
 
 # Form Edit Book
 ![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/editUS.png)
