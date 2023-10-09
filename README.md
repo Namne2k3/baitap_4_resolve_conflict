@@ -7,4 +7,4 @@
 | Iteration | Unscheduled |
 | Estimate | 5 Points |
 
-![plot](C:\Users\Nam\Pictures\Screenshots\mainUS.png)
+![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/mainUS.png)
