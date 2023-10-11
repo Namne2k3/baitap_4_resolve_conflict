@@ -23,7 +23,6 @@
 # Form Import Books
 ![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/importUS.png)
 
-
 | Title: | FeedBack |
 | :-------- | :----------------- |
 | Value Statement: | As a customer, <br>I would like to be able to give feedback on the product, <br> my experience or submit store advice, to share your opinion and help improve the store's services.  |
@@ -34,3 +33,13 @@
 | Estimate: | 5 Points |
 
 ![](Figma_basics.png)
+
+|      Title          |   Show menu of books                                         ||
+|----------------|-------------------------------|-----------------------------|
+|Value Statement|        As a bookseller, I want to be able to view a menu that lists all the available books to the customer, so that they can easily browse and select the book they want to buy. |          |
+|Acceptance Criteria          |Given the menu display a list of books, each book should be displayed with its title, author, and a brief description.<br>When the customers open app or click on the list of books. <br> Then a list with many book genres appears, this menu should be easy to navigate and scroll through and Clicking on a book should open a detailed view or page providing more information and option as adding it to wishlist or purchasing it              |      |     
+|Definition of Done         |Unit Tests Passed <br> Acceptance Criteria Met <br>Code Reviewed<br>Functional Tests Passed<br>Non-Functional Requirements Met<br>Product Owner Accepts User Story||
+|		Owner			|			Tran Thanh Tuong					|			|				
+|			Iteration		|		Unscheduled							|			|			
+|					Estimate|5 Points								||
+
