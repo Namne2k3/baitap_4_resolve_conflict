@@ -22,3 +22,15 @@
 
 # Form Import Books
 ![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/importUS.png)
+
+
+| Title: | FeedBack |
+| :-------- | :----------------- |
+| Value Statement: | As a customer, <br>I would like to be able to give feedback on the product, <br> my experience or submit store advice, to share your opinion and help improve the store's services.  |
+| Acceptance Criteria: | Acceptance Criterion 1:  <br>Customers need to be notified of successful submission of their feedback or advice <br>All feedback must be stored in the store's database for future reference and analysis <br>If necessary, the store should have the ability to contact customers to request additional information or provide personal feedback <br> <br> <br>Acceptance Criterion 2: <br>If any changes or improvements are made to products or services based on customer feedback, the store should notify customers about this. <br>The store should have a clear policy on accepting or rejecting inappropriate or rule-violating feedback <br>The system needs to undergo performance testing to ensure that the process of providing feedback does not negatively impact the user experience <br> |
+| Definition of Done: |  - Unit test passed <br> - Acceptance criteria are met <br> - The code has been evaluated <br> - Functional test passed <br> - Non-functional requirements have been met <br> - Save and rate tests |
+| Owner: | Khang | Owner |
+| Iteration: | Unscheduled |
+| Estimate: | 5 Points |
+
+![](Figma_basics.png)
