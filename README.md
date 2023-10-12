@@ -44,8 +44,6 @@
  | Estimate: | 5 point
  | Interation | 5 point|
  ![Search books](https://github.com/Namne2k3/baitap_4_resolve_conflict/assets/139382333/c7e81060-10a1-4802-92a9-e777d4897fb5) |
- | Estimate: | 5 point |
- | Interation | 5 point |
 
 # 2180603433
 | Title: | FeedBack |
