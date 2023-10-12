@@ -32,5 +32,5 @@
 | Iteration: | Unscheduled |
 | Estimate: | 5 Points |
 
-![](Figma_basics.png)
+![](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/2180603433/Figma%20basics.png)
 
