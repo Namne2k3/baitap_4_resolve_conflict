@@ -41,7 +41,7 @@
 | Definition of Done| 1. performs validation and error handling for inputs and outputs.<br>2.meets the performance, security, usability, and reliability requirements.<br>3. passes all the unit tests, integration tests, and acceptance tests.
 |Owner          |Hoai Phuong| |
  | Interation: | Unscheduled 
- | Estimate: | 5 point
+ | Estimate: | 5 point |
 
  | Interation | 5 point|
 
