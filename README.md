@@ -33,9 +33,6 @@
 |Interation | Unscheduled|
 |Estimate: | 5 Points |
 
-![](card.png)
-![](card1.png)
-![](payment.png)
 
 # 2180608413
 |       Title    		| Search books |
