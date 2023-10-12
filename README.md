@@ -26,7 +26,10 @@
 # 2180608413
 |       Title    		| Search books |
 |------------------------|-------------------------------|
-|Value Statement	|As a customer, I want the store to be able to quickly find books that can meet my needs            |
-|Acceptance Criteria        |1.Identify the user:  The first step is to identify the user who will be using the book manager..<br>2.Define the goal: The next step is to define the goal of the user..<br>3.Break down the story into tasks: Once you have written the user story, you can break it down into smaller tasks that need to be completed in order to achieve the goal. include designing a search interface, implementing search functionality, and testing the search feature.<br> 4.Prioritize tasks: Finally, you can prioritize the tasks based on their importance and difficulty|
-|Owner          |customers| |
+|Value Statement	|As a customer, I want to find books quickly so I can view or buy the books I want            |
+|Acceptance Criteria        |Given that  to already know the information of book .<br>When customers enter into the search box.<br> Then a list of related books appears for customers to search.|
+| Definition of Done| 1. performs validation and error handling for inputs and outputs.<br>2.meets the performance, security, usability, and reliability requirements.<br>3. passes all the unit tests, integration tests, and acceptance tests.
+|Owner          |Hoai Phuong| |
+ | Interation: | Unscheduled 
+ | Estimate: | 5 point
  | Interation | 5 point|
