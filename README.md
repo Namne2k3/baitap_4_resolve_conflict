@@ -32,4 +32,4 @@
 |			Iteration		|		Unscheduled							|			|			
 |					Estimate|5 Points								||
 
-https://gitlab.com/2180608203/2180608203/uploads/ed29aa7b315d76d44ba8ca3fef908627/giaodien.png
+![giaodien](/uploads/98f4239d0b9e5276210a1c6ec8a43d78/giaodien.png)
