@@ -1,4 +1,4 @@
-| Title: | Manage Books |
+![image](https://github.com/Namne2k3/baitap_4_resolve_conflict/assets/123718574/f1524be2-916d-4045-8f2a-acfd00f09a98)| Title: | Manage Books |
 | ------ | ------ |
 | Value Statement: | As a book manager, I want to update, delete and search books in the database, so that I can manage the inventory and availability of books. |
 | Acceptance Criteria: | <ul> <li>The book manager can access a web page with a form to enter the book details (title, author, genre, ISBN, etc.)</li> <li>The book manager can submit the form and see a confirmation message that the book has been added to the database</li> <li>The book manager can view a list of all the books in the database with their details</li> <li>The book manager can edit or delete any book from the list by clicking on a button</li> <li>The book manager can search for a book by entering a keyword or a filter (e.g. genre, author, etc.)</li> </ul> |
@@ -33,6 +33,9 @@
 |Interation | Unscheduled|
 |Estimate: | 5 Points |
 
+![](card.png)
+![](card1.png)
+![](payment.png)
 
 # 2180608413
 |       Title    		| Search books |
@@ -69,4 +72,3 @@
 |					Estimate|5 Points								||
 
 ![giaodien](https://gitlab.com/2180608203/2180608203/uploads/ed29aa7b315d76d44ba8ca3fef908627/giaodien.png)
-
