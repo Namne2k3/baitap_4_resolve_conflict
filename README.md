@@ -1,6 +1,6 @@
 | Title: | Manage Books |
 | ------ | ------ |
-| Value Statement: | As a book manager, I want update, delete, searchbook and manage books in the database, so that I can manage the inventory and availability of books. |
+| Value Statement: | As a book manager, I want update, delete, search and manage books in the database, so that I can manage the inventory and availability of books. |
 | Acceptance Criteria: | Access a page with a form to see the book details ( id , title, author, genre, edition ) |
 | Definition of Done | <ul> <li>Acceptance Criteria Met</li> <li>Code reviewed</li> <li>Product owner Accepts User story</li> </ul> |
 | Owner | Book Manager |
