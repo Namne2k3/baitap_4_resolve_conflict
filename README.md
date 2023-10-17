@@ -1,7 +1,7 @@
 | Title: | Manage Books |
 | ------ | ------ |
-| Value Statement: | As a book manager, I want to access page manage book in the database, so that I can manage the inventory and availability of books. |
-| Acceptance Criteria: | <ul> <li>The book manager can access a page with a form to see the book details ( id , title, author, genre, edition )</li> </ul> |
+| Value Statement: | As a book manager, I want update, delete, searchbook and manage books in the database, so that I can manage the inventory and availability of books. |
+| Acceptance Criteria: | Access a page with a form to see the book details ( id , title, author, genre, edition ) |
 | Definition of Done | <ul> <li>Acceptance Criteria Met</li> <li>Code reviewed</li> <li>Product owner Accepts User story</li> </ul> |
 | Owner | Book Manager |
 | Iteration | Unscheduled |
@@ -9,19 +9,6 @@
  
 # Main User Interface
 ![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/mainUS.png)
-
-# Menu Items – Specific Books
-![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/menuUS.png)
-![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/comboBoxUS.png)
-
-# Form Edit Book
-![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/editUS.png)
-
-# Form Book Detail
-![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/detailUS.png)
-
-# Form Import Books
-![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/importUS.png)
 
 # 2180607518
 |       Title    		|Customer check out cart and makes payment            
