@@ -8,7 +8,7 @@
 | Estimate | 5 Points |
  
 # Main User Interface
-![Alt text]([https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/mainUS.png](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/main_US.png))
+![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/main_US.png)
 
 # 2180607518
 |       Title    		|Customer check out cart and makes payment            
