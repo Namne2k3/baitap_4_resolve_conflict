@@ -7,7 +7,11 @@
 | Iteration | Unscheduled |
 | Estimate | 5 Points |
 
-| Test Case |
+# Test Case
+| Title | Search books by genre in the database |
+| Precondition | Book manager is logged in and on the manage books page |
+| Steps | 1. Enter a genre name in the search box <br/> 2. Click on the “Search” button <br/> 3. Verify that the results show only books that match the genre |
+| Expected result | The book manager can find books by genre in the database |
  
 # Main User Interface
 ![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/main_US.png)
