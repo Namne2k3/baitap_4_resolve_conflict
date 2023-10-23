@@ -12,7 +12,7 @@
 | Title | Search books by genre in the database |
 | ------ | ------ |
 | Precondition | Book manager is logged in and on the manage books page |
-| Steps | 1. Change genre name in the combo box <br/> 2. Click on the “Search” button <br/> 3. Verify that the results show only books that match the genre |
+| Steps | 1. Change genre name in the combo box <br/> 2. Verify that the results show only books that match the genre |
 | Expected result | The book manager can find books by genre in the database |
  
 # Main User Interface
