@@ -6,6 +6,8 @@
 | Owner | Book Manager |
 | Iteration | Unscheduled |
 | Estimate | 5 Points |
+
+| Test Case |
  
 # Main User Interface
 ![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/main_US.png)
