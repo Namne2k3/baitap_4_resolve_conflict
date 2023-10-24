@@ -12,19 +12,6 @@
 | ------ | ------- | ------- | ------- | ------- | -------- |
 | TC1 | Search boosks by genre in database | Book manager is logged in and in the manage books page | 1. Change genre name in the combo box <br/> 2. Verify that the results show only books that match the genre | Book's information needed to be searched | The book manager can find books by genre in the database |
 | TC2 | Update books in the database | Book manager already has book information that needs to be updated | 1. Click on button Update <br/> 2. A window appears asking if you want to confirm or not <br/> 3. Click on button submit to confirm update the book | Book's information needed to be updated | The book that needed to be updated has updated |
-
-
-| Title | Search books by genre in the database |
-| ------ | ------ |
-| Precondition | Book manager is logged in and on the manage books page |
-| Steps | 1. Change genre name in the combo box <br/> 2. Verify that the results show only books that match the genre |
-| Expected result | The book manager can find books by genre in the database |
-
-| Title | Update books in the database |
-| ------ | ------ |
-| Precondition | Book manager already has book information that needs to be updated |
-| Steps | 1. Click on button Update <br/> 2. A window appears asking if you want to confirm or not <br/> 3. Click on button submit to confirm update the book |
-| Expected result | The book that needed to be updated has updated |
  
 # Main User Interface
 ![Alt text](https://github.com/Namne2k3/baitap_4_resolve_conflict/blob/main/main_US.png)
