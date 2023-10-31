@@ -1,7 +1,7 @@
 | Title: | Manage Books |
 | ------ | ------ |
 | Value Statement: | As a book manager, I want update, delete, search, order books by genre and manage books in the database, so that I can manage the inventory and availability of books. |
-| Acceptance Criteria: | Scenario 1: Given a page with a form to see the all the books ( id , name, year, author, edition ) <br/> When the book manager access the page. <br/> Then a page show all the books. |
+| Acceptance Criteria: | Scenario 1: Given a page with a form to see the all the books ( id , name, author ) <br/> When the book manager access the page. <br/> Then a page show all the books. |
 | Definition of Done | <ul> <li>Acceptance Criteria Met</li> <li>Code reviewed</li> <li>Product owner Accepts User story</li> </ul> |
 | Owner | Book Manager |
 | Iteration | Unscheduled |
